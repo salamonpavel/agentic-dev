@@ -13,7 +13,7 @@ A Claude Code plugin marketplace. Each subdirectory is a standalone plugin.
 ### 1. Add the marketplace
 
 ```bash
-claude plugin marketplace add gh:salamonpavel/agentic-dev
+claude plugin marketplace add salamonpavel/agentic-dev
 ```
 
 ### 2. Install a plugin
