@@ -1,0 +1,13 @@
+{
+  "name": "agentic-dev",
+  "owner": {
+    "name": "Pavel Salamon"
+  },
+  "plugins": [
+    {
+      "name": "devflow",
+      "source": "./devflow",
+      "description": "Development lifecycle plugin with role-based agents, skills for each phase, and automation hooks."
+    }
+  ]
+}

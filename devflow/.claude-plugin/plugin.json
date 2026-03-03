@@ -1,0 +1,11 @@
+{
+  "name": "devflow",
+  "version": "0.1.0",
+  "description": "Development lifecycle plugin with role-based agents, skills for each phase, and automation hooks.",
+  "author": {
+    "name": "Pavel Salamon",
+    "url": "https://github.com/salamonpavel/agentic-dev"
+  },
+  "license": "MIT",
+  "keywords": ["development", "lifecycle", "agents", "feature-dev", "code-review", "sdlc"]
+}
